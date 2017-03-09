@@ -97,8 +97,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>data.config.site.root_url/posts/2017-03-9-Doc-Watson/</loc>
-    <lastmod>2017-03-09T11:32:45-08:00</lastmod>
+    <loc>data.config.site.root_url/Doc-Watson/</loc>
+    <lastmod>2017-03-09T11:33:55-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -176,6 +176,18 @@
   </url>
   <url>
     <loc>data.config.site.root_url/2017/</loc>
+    <lastmod>2017-02-13T13:50:20-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>data.config.site.root_url/2017/03/</loc>
+    <lastmod>2017-02-13T13:50:20-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>data.config.site.root_url/2017/03/09/</loc>
     <lastmod>2017-02-13T13:50:20-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
