@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+    <Benjamin Kinzer> - Design and Development - <http://benjaminkinzer.com>
+
+/* THANKS */
+
+/* SITE */
+    Last update: 2017-03-09
+    Language: English
+    Standards: CSS3, HTML5, JavaScript
+    Components: Middleman, JQuery, Modernizr, HTML5 Boilerplate, Normalize, SASS, Include Media, Jeet, Bourbon, Github Pages
+    Fonts: Helvetica
+    Software: Atom
