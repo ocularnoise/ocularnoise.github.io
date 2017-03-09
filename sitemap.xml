@@ -97,8 +97,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>data.config.site.root_url/Closer-Remix/</loc>
+    <lastmod>2017-03-09T11:52:20-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>data.config.site.root_url/Doc-Watson/</loc>
     <lastmod>2017-03-09T11:33:55-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>data.config.site.root_url/Places-Like-This/</loc>
+    <lastmod>2017-03-09T11:52:27-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -170,6 +182,18 @@
   </url>
   <url>
     <loc>data.config.site.root_url/tags/hip-hop/</loc>
+    <lastmod>2017-02-24T22:39:55-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>data.config.site.root_url/tags/house/</loc>
+    <lastmod>2017-02-24T22:39:55-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>data.config.site.root_url/tags/indie-pop/</loc>
     <lastmod>2017-02-24T22:39:55-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
