@@ -5,10 +5,27 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-03-08T16:00:00-08:00</updated>
+  <updated>2017-03-09T16:00:00-08:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Odyssey</title>
+    <link rel="alternate" href="http://blog.url.com/Odyssey/"/>
+    <id>http://blog.url.com/Odyssey/</id>
+    <published>2017-03-09T16:00:00-08:00</published>
+    <updated>2017-03-16T10:51:35-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Murlo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; Unknown&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Mixpak&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2017&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Places Like This</title>
     <link rel="alternate" href="http://blog.url.com/Places-Like-This/"/>
@@ -97,23 +114,6 @@
   &lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt; Reid Miles&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Blue Note Records&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 1960&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Up For Days</title>
-    <link rel="alternate" href="http://blog.url.com/Up-For-Days/"/>
-    <id>http://blog.url.com/Up-For-Days/</id>
-    <published>2017-01-11T16:00:00-08:00</published>
-    <updated>2017-02-13T16:23:21-08:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Belly&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Artist&lt;/strong&gt; Unknown&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Def Jam Recordings&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2015&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>

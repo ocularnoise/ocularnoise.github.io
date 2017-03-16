@@ -7,7 +7,7 @@
 /* THANKS */
 
 /* SITE */
-    Last update: 2017-03-09
+    Last update: 2017-03-16
     Language: English
     Standards: CSS3, HTML5, JavaScript
     Components: Middleman, JQuery, Modernizr, HTML5 Boilerplate, Normalize, SASS, Include Media, Jeet, Bourbon, Github Pages
