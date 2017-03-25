@@ -5,10 +5,27 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-03-20T17:00:00-07:00</updated>
+  <updated>2017-03-23T17:00:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Psychic</title>
+    <link rel="alternate" href="http://blog.url.com/Psychic/"/>
+    <id>http://blog.url.com/Psychic/</id>
+    <published>2017-03-23T17:00:00-07:00</published>
+    <updated>2017-03-24T22:34:51-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Darkside&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Photographer&lt;/strong&gt; Unknown&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Matador Records&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2013&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Drop X</title>
     <link rel="alternate" href="http://blog.url.com/Drop-X/"/>
@@ -91,24 +108,6 @@
   &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; Will Sweeney&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Scotland Yard&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2007&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Doc Watson</title>
-    <link rel="alternate" href="http://blog.url.com/Doc-Watson/"/>
-    <id>http://blog.url.com/Doc-Watson/</id>
-    <published>2017-03-08T16:00:00-08:00</published>
-    <updated>2017-03-09T11:33:55-08:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Doc Watson&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt; Jules Haffant&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Photographer&lt;/strong&gt; Kelly Hart&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Vanguard Records&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 1964&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>

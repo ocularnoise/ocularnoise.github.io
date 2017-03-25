@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://ocularnoise.com/</loc>
-    <lastmod>2017-02-21T14:17:51-08:00</lastmod>
+    <lastmod>2017-03-21T15:49:04-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -139,6 +139,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ocularnoise.com/Psychic/</loc>
+    <lastmod>2017-03-24T22:34:51-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ocularnoise.com/tags/jazz/</loc>
     <lastmod>2017-02-24T22:39:55-08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -223,6 +229,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ocularnoise.com/tags/downtempo/</loc>
+    <lastmod>2017-02-24T22:39:55-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ocularnoise.com/2017/</loc>
     <lastmod>2017-02-13T13:50:20-08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -230,6 +242,12 @@
   </url>
   <url>
     <loc>http://ocularnoise.com/2017/03/</loc>
+    <lastmod>2017-02-13T13:50:20-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ocularnoise.com/2017/03/24/</loc>
     <lastmod>2017-02-13T13:50:20-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -356,7 +374,7 @@
   </url>
   <url>
     <loc>http://ocularnoise.com/page/2/</loc>
-    <lastmod>2017-02-21T14:17:51-08:00</lastmod>
+    <lastmod>2017-03-21T15:49:04-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
