@@ -145,6 +145,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ocularnoise.com/Awaken-My-Love/</loc>
+    <lastmod>2017-03-30T22:18:22-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ocularnoise.com/tags/jazz/</loc>
     <lastmod>2017-02-24T22:39:55-08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -235,6 +241,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ocularnoise.com/tags/soul-r-b/</loc>
+    <lastmod>2017-02-24T22:39:55-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ocularnoise.com/2017/</loc>
     <lastmod>2017-02-13T13:50:20-08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -242,6 +254,12 @@
   </url>
   <url>
     <loc>http://ocularnoise.com/2017/03/</loc>
+    <lastmod>2017-02-13T13:50:20-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ocularnoise.com/2017/03/30/</loc>
     <lastmod>2017-02-13T13:50:20-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
