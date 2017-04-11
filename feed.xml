@@ -5,10 +5,61 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-03-29T17:00:00-07:00</updated>
+  <updated>2017-04-10T17:00:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Flashlight</title>
+    <link rel="alternate" href="http://blog.url.com/Flashlight/"/>
+    <id>http://blog.url.com/Flashlight/</id>
+    <published>2017-04-10T17:00:00-07:00</published>
+    <updated>2017-04-11T10:49:27-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Bonobo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Designer&lt;/strong&gt; Leif Podhajsky&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Ninja Tune&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2014&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Sunday Gift</title>
+    <link rel="alternate" href="http://blog.url.com/The-Sunday-Gift/"/>
+    <id>http://blog.url.com/The-Sunday-Gift/</id>
+    <published>2017-04-09T17:00:00-07:00</published>
+    <updated>2017-04-11T10:50:27-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Blue Daisy&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; Archan Nair&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Black Acre&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2011&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Dimensions &amp; Extensions</title>
+    <link rel="alternate" href="http://blog.url.com/Dimensions-Extensions/"/>
+    <id>http://blog.url.com/Dimensions-Extensions/</id>
+    <published>2017-04-08T17:00:00-07:00</published>
+    <updated>2017-04-11T11:01:47-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Sam Rivers&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Designer&lt;/strong&gt; Reid Miles&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Blue Note Records&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 1986&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Awaken My Love!</title>
     <link rel="alternate" href="http://blog.url.com/Awaken-My-Love/"/>
@@ -57,57 +108,6 @@
   &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; McKay Felt&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Age 101&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2015&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>The Tomato Collection</title>
-    <link rel="alternate" href="http://blog.url.com/The-Tomato-Collection/"/>
-    <id>http://blog.url.com/The-Tomato-Collection/</id>
-    <published>2017-03-19T17:00:00-07:00</published>
-    <updated>2017-03-21T09:41:58-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Nina Simone&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Designer&lt;/strong&gt; Milton Glaser&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Tomato&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 1994&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Stillness in Wonderland</title>
-    <link rel="alternate" href="http://blog.url.com/Stillness-In-Wonderland/"/>
-    <id>http://blog.url.com/Stillness-In-Wonderland/</id>
-    <published>2017-03-18T17:00:00-07:00</published>
-    <updated>2017-03-19T14:24:02-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Little Simz&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; McKay Felt&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Age 101&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2016&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Odyssey</title>
-    <link rel="alternate" href="http://blog.url.com/Odyssey/"/>
-    <id>http://blog.url.com/Odyssey/</id>
-    <published>2017-03-09T16:00:00-08:00</published>
-    <updated>2017-03-16T10:51:35-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Musician&lt;/strong&gt; Murlo&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; Unknown&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Record Label&lt;/strong&gt; Mixpak&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt; 2017&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
